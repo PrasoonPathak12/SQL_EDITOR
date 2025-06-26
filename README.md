@@ -75,7 +75,7 @@ Make sure you have the following tools installed:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/CulturalProfessor/dsql.git
+   git clone https://github.com/PrasoonPathak12/SQL_PLAYGROUND.git
 
 2. Navigate to the project folder:
 
