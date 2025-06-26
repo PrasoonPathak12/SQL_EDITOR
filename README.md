@@ -10,11 +10,7 @@ You can view the live application here:
 
 [**SQL PLAYGROUND - Deployed App**](https://dsql-nine.vercel.app/)
 
-## Video Walkthrough
 
-You can watch a video walkthrough of the application here:
-
-[**Video Walkthrough**](#)
 
 ## Features
 
